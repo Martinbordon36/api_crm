@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Martin",
+      "empresa": "Mildonio",
+      "email": "martinbordon36@gmail.com",
+      "telefono": "03804795097",
+      "notas": "Probando",
+      "id": 2
+    },
+    {
+      "nombre": "MARTIN IGNACIO",
+      "empresa": "Diseño",
+      "email": "correo@correo.com",
+      "telefono": "03804795097",
+      "notas": "Prueba ",
+      "id": 4
+    },
+    {
+      "nombre": "MARTIN IGNACIO act",
+      "empresa": "Diseño 3",
+      "email": "martinbordon36@gmail.com",
+      "telefono": "03804795097",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Diseño",
+      "email": "Correo@corre.com",
+      "telefono": "03804795097",
+      "notas": "",
+      "id": 6
+    }
+  ]
+}
